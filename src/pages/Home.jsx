@@ -13,7 +13,7 @@ export default function Home() {
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-2">
               <Sparkles className="w-8 h-8 text-blue-600" />
-              <span className="text-2xl font-bold text-gray-900">AppName</span>
+              <span className="text-2xl font-bold text-gray-900">VinayApp</span>
             </div>
             <div className="flex space-x-4">
               {user ? (
